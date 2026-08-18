@@ -50,8 +50,19 @@ Trained scene, 4.5M gaussians: [point_cloud.ply](https://drive.google.com/file/d
 Viewer [webgl-gaussian-splatting.vercel.app](https://webgl-gaussian-splatting.vercel.app/)
 
 Preview
+<img width="1919" height="1079" alt="preview1" src="https://github.com/user-attachments/assets/858ea3c6-49d4-412c-b212-9bfbee2ade29" />
+<img width="1919" height="1079" alt="preview2" src="https://github.com/user-attachments/assets/daa17e3f-2c8d-4cd1-9de5-fc8ed1d4e600" />
 
 Flight path
 
+
+https://github.com/user-attachments/assets/64166781-b10e-41df-b6c6-4fc01e45aeac
+
+
+
 Orbit path
+
+
+https://github.com/user-attachments/assets/3e6fb8cc-9108-4bfe-8d9c-254e81cc0106
+
 
